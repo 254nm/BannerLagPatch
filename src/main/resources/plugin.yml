@@ -1,0 +1,6 @@
+name: BannerLagPatch
+version: ${project.version}
+main: org.l2x9.bannerlagpatch.BannerLagPatch
+authors: [ 254n_m ]
+description: Fixes Gay2H lagging the server with banners
+website: https://www.l2x9.org/
